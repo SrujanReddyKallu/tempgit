@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hi this is chiken-manchuria
 hi tihis is malairoti
+=======
+hi this is manchuria
+>>>>>>> parent of 6a19662 (secong)
